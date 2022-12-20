@@ -68,6 +68,6 @@ Link: https://www.hackthebox.com/machines/squashed
 
 ![](Assets/15.png)
 
-#### 16. Use the password for ssh and use the root flag in root.txt
+#### 16. Use the password for ssh and the root flag in root.txt
 
 ![](Assets/16.png)
